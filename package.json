@@ -1,0 +1,23 @@
+{
+  "name": "Matrix",
+  "version": "1.0.0",
+  "description": "A recreation of the falling green code in The Matrix.",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d src"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fadiyousif/matrix-code.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fadiyousif/matrix-code/issues"
+  },
+  "homepage": "https://fadiyousif.github.io/matrix-code",
+  "dependencies": {
+    "gh-pages": "^3.1.0"
+  }
+}
