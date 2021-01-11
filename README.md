@@ -1,5 +1,6 @@
 # Matrix Code
-A recreation of the falling green code in The Matrix.
+A recreation of the falling green code in The Matrix. <br>
+Check it out: https://fadiyousif.github.io/matrix-code/
 
 <img src="src/img/matrix-code.gif" height="200" >
 
